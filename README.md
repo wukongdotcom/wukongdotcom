@@ -9,7 +9,7 @@
   $\color{#FFE5B4}{\textup{ }}$ 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=628CBD&style=plastic&label=🐅)
+  ![](https://komarev.com/ghpvc/?username=wukongdotcom&color=628CBD&style=plastic&label=🐅)
 
 
   [strawpage for info](https://wwukongdotcom.straw.page/)
