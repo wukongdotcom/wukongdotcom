@@ -4,11 +4,6 @@
 <div align="center"> 
 
 
-<div align="center">
-  
-  $\color{#FFE5B4}{\textup{ }}$ 
-<div align="center">
-
   ![](https://komarev.com/ghpvc/?username=wukongdotcom&color=628CBD&style=plastic&label=🐅)
 
 
