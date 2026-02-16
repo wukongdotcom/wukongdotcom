@@ -7,4 +7,4 @@
   ![](https://komarev.com/ghpvc/?username=wukongdotcom&color=628CBD&style=plastic&label=🐅)
 
 
-  [strawpage for info](https://wwukongdotcom.straw.page/)
+ remaking strawpage ok
